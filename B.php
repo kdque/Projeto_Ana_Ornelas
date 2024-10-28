@@ -26,5 +26,8 @@ class B {
     public function MB2() {
         echo "Método MB2()";
     }
+
+    public function MB3() {
+        echo "Método MB3()";
+    }
 }
-?>
