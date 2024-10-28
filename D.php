@@ -10,5 +10,9 @@ class D {
     public function MD2() {
         echo "Método MD2()";
     }
+
+    public function MD3() {
+        echo "Método MD3()";
+    }
 }
 ?>
